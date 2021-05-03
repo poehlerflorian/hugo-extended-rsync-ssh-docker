@@ -1,4 +1,4 @@
-FROM registry.gitlab.com/pages/hugo/hugo_extended:0.82.1
+FROM registry.gitlab.com/pages/hugo/hugo_extended:0.83.1
 
 RUN apk add --no-cache \
     openssh \
